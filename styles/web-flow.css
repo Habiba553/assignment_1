@@ -22,6 +22,11 @@
   justify-content: center;
   text-align: left;
 }
+.btn-primary:hover{
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+  color: black;
+  background-color: #757575;
+}
 
 /* header */
 .header{
@@ -104,6 +109,11 @@ nav li a{
   text-align: left;
 }
 
+.stay-btn:hover {
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+  color: black;
+  background-color: #757575;
+}
 
 
 .section-title{
@@ -383,6 +393,13 @@ textarea::placeholder {
   cursor: pointer;
   transition: background-color 0.3s;
 }
+
+.submit-btn:hover{
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+  color: black;
+  background-color: #757575;
+}
+
 .footer{
   padding: 60px 20px;
   margin-bottom: 100px;
